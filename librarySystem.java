@@ -106,8 +106,6 @@ public class librarySystem {
                     System.out.println("Invalid choice. Please try again.");
             }
         } while (choice != 6);
-
-        scanner.close();
     }
 }
 
